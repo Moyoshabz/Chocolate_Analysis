@@ -5,6 +5,7 @@ This Time series Analysis aims at understanding the chocolate confectionery in A
 Within this anlysis the following methods for forecasting were used:
 
 •	Linear
+
 •	Quadratic
 •	Exponential
 •	Linear with dummy variables
