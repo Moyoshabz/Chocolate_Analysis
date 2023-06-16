@@ -28,7 +28,8 @@ Within this anlysis the following methods for forecasting were used:
 Conclusion of the Analysis
 
 Forcast Comparison
-      Adj. R-Square	RMSE	Total Forecast
+
+        Adj. R-Square	 RMSE	   Total Forecast
 Linear	79.5%	      2,631 	 97,610 
 
 Quadratic	84.1%	    2,307 	 109,862 
@@ -60,8 +61,9 @@ Quadratic with
 Dummies 1990	80.1%	 1,097 	 120,728 
 
 
-This is my final recommened forecast for the next four quarters		
- Year     Final Forecast	
+This is my final recommened forecast for the next four quarters	
+
+ Year       Final Forecast	
 1994 Q4	 29,969 
 
 1995 Q1	 26,904 
@@ -70,7 +72,7 @@ This is my final recommened forecast for the next four quarters
 
 1995 Q3	 32,221 
 
-Total = **118,420 **
+Total Forcast across all quarters = **118,420 **
 
 
 
