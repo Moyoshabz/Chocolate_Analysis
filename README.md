@@ -7,13 +7,22 @@ Within this anlysis the following methods for forecasting were used:
 •	Linear
 
 •	Quadratic
+
 •	Exponential
+
 •	Linear with dummy variables
+
 •	Quadratic with dummy variables
+
 •	Exponential with dummy variables
+
 •	Linear using deseasonalized sales (MA12)
+
 •	Quadratic using deseasonalized sales (MA12)
+
 •	Exponential using deseasonalized sales (MA12)
+
+(Where MA: Moving Average)
 
 
 Conclusion of the Analysis
@@ -49,4 +58,4 @@ This is my final recommened forecast for the next four quarters
 
 
 
-MA: Moving Average
+
