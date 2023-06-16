@@ -63,7 +63,8 @@ Dummies 1990	80.1%	 1,097 	 120,728
 
 This is my final recommened forecast for the next four quarters	
 
- Year       Final Forecast	
+ Year       Final Forecast
+ 
 1994 Q4	 29,969 
 
 1995 Q1	 26,904 
